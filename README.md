@@ -31,7 +31,7 @@ To delete a contact, click on “Delete” for a specific contact from the home 
 There are notifications for each CRUD operation that gets performed, using Alertify.js.
 
 ## Contacts.API
-To test the API endpoints, a user can navigate to the URLs listed below” 
+To test the API endpoints, a user can navigate to the URLs listed below”. 
 
 Contacts
 * GET api/Contacts	
