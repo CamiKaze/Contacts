@@ -53,3 +53,10 @@ SearchContacts
 * PUT api/SearchContacts/{id}	
 * POST api/SearchContacts	
 * DELETE api/SearchContacts/{id}
+
+
+Test files were added using Postman.
+The test files are:
+* Search test with ID
+* Index
+* Edit with ID
