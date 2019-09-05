@@ -2,11 +2,12 @@
 
 A phone book application where CRUD operations can be performed on each record.
 
-## Technologies used
+## Technologies and Tools
 * MVC Web API
 * MVC Web application
 * .Net 4.7.2
 * SQL Server Management Studio v18.2
+* Postman
 
 ## Getting started
 ## Installation
