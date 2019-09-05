@@ -2,7 +2,7 @@
 
 A phone book application where CRUD operations can be performed on each record.
 
-## Technologies used:
+## Technologies used
 * MVC Web API
 * MVC Web application
 * .Net 4.7.2
