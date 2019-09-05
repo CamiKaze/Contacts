@@ -56,13 +56,5 @@ SearchContacts
 * DELETE api/SearchContacts/{id}
 
 
-Test files were added using Postman.
-The test files are:
-* Search test with ID.jpg
-* TEST - Search Response using Name
-
-* Index.jpg
-* TEST - Default Response with all user detail
-
-* Edit with ID.jpg
-* TEST - Edit Response using ID
+Tests were conducted using Postman.
+A Json file named "Contacts Application.postman_collection" details this test cases that were performed.
