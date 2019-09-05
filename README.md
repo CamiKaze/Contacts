@@ -57,6 +57,6 @@ SearchContacts
 
 Test files were added using Postman.
 The test files are:
-* Search test with ID
-* Index
-* Edit with ID
+* Search test with ID.jpg
+* Index.jpg
+* Edit with ID.jpg
