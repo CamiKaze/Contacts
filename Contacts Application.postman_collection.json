@@ -1,0 +1,71 @@
+{
+	"info": {
+		"_postman_id": "87f34308-235d-4b1b-a62e-7b9c1e0ab114",
+		"name": "Contacts Application",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:49908/api/SearchContacts/Cameron%20Smith",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:49908/api/SearchContacts/Cameron%20Smith",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "49908",
+					"path": [
+						"api",
+						"SearchContacts",
+						"Cameron%20Smith"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:49908/api/Contacts",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:49908/api/Contacts",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "49908",
+					"path": [
+						"api",
+						"Contacts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:49908/api/Contacts/16",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:49908/api/Contacts/16",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "49908",
+					"path": [
+						"api",
+						"Contacts",
+						"16"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
