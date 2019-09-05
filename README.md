@@ -1,5 +1,6 @@
-# Web API in MVC using .Net 4.7.2 and SQL Server Managemenr Studio v18.2
-A phone book application where CRUD operations can be performed.
+# A phone book application where CRUD operations can be performed.
+Web API in MVC using .Net 4.7.2 and SQL Server Management Studio v18.2
+
 
 ## Getting started
 ## Installation
